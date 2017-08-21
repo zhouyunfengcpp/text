@@ -1,0 +1,6 @@
+Topic:0	: 艾拓思 AETOS 数据 英镑 美元 中国 
+Topic:1	: 牛汇 金价 和 特朗普 TFX 拓瑞 
+Topic:2	: 牛汇 看空 黄金 月 iFOREX 日 
+Topic:3	: 邦达 亚洲 美指 金钻 集团 GTHFX 
+Topic:4	: 国际 避险 情绪 黄金 奇牛 风险 
+Topic:5	: 美元 金融 欧元 非农 易信 反弹 
